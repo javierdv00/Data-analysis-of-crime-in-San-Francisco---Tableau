@@ -1,5 +1,5 @@
 # Data analysis of crime in San Francisco - Tableau
-The goal was to create an interactive dashboard that would allow the user to select different types of information about the crime in the city of San Francisco.
+The goal was to create an interactive dashboard that would allow the user to select different types of information about the crime in the city of San Francisco.  
 The final dashboard is available here:  
 [https://public.tableau.com/app/profile/javier.diaz.valdivia/viz/Crime_analysis-San_Francisco/Story1?publish=yes]( https://public.tableau.com/app/profile/javier.diaz.valdivia/viz/Crime_analysis-San_Francisco/Story1?publish=yes)  
 
